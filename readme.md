@@ -1,6 +1,6 @@
 # PromptVault by Tech Data Hub
 
-Welcome to **PromptVault** — a curated collection of AI prompts designed to help you get comfortable, creative, and confident with AI.
+Welcome to **PromptVault**, a curated collection of AI prompts designed to help you get comfortable, creative, and confident with AI.
 
 ---
 
