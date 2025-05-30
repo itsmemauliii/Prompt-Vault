@@ -38,7 +38,7 @@ Check it out here:
 ## 🤝 Contribute
 
 Have a prompt to share? Submit it here:  
-[Submit Your Prompt](#) *(Insert your Google Form link)*
+[Submit Your Prompt](#) *(https://forms.gle/S4YDML67r9m5QGXT6)*
 
 ---
 
